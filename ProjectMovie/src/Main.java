@@ -13,7 +13,12 @@ public class Main {
         System.out.println(media);
 
         String sinopse;
-        sinopse = "Filme de aventura com galã dos anos 80";
+        sinopse = """
+                Filme Top Gun
+                Filme de aventura com galã dos anos 80
+                Muito bom!
+                Ano de Lançamento
+                """ + anoDeLancamento;
         System.out.println(sinopse);
     }
 }
