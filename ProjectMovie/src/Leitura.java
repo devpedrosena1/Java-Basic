@@ -18,6 +18,8 @@ public class Leitura {
         System.out.println("Informe a sua avaliação para o filme: ");
         double avaliacao = scanner.nextDouble(); // nextDouble() -> é a forma do scanner receber um double
 
+        scanner.close();
+
         System.out.println("Nome do filme: " + filme);
         System.out.println("Ano de lançamento: " + anoDeLancamento);
         System.out.println("Avaliação do usuário: " + avaliacao);
