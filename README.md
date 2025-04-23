@@ -34,3 +34,11 @@ O repositório está organizado em pastas, onde cada uma contém arquivos `.java
 1. Clone o repositório:
    ```bash
    git clone https://github.com/devpedrosena1/Java-Basic.git
+   
+2. Abra a pasta em sua IDE favorita.
+3. Execute os arquivos .java individualmente (cada um tem um main próprio).
+
+👨‍💻 Autor
+Desenvolvido por *Pedro Sena*
+
+
