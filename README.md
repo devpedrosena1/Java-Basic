@@ -38,7 +38,8 @@ O repositório está organizado em pastas, onde cada uma contém arquivos `.java
 2. Abra a pasta em sua IDE favorita.
 3. Execute os arquivos .java individualmente (cada um tem um main próprio).
 
-👨‍💻 Autor
+👨‍💻 Autor 
+
 Desenvolvido por *Pedro Sena*
 
 
